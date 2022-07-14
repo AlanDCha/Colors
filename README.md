@@ -1,2 +1,7 @@
 # Colors
+--------------------------------
 Applying material design to my app
+
+That's the main image of my app
+
+
